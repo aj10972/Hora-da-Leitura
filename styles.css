@@ -20,3 +20,16 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+.botões__ancora {
+    font-size: 12px; /* Ajuste o tamanho da fonte */
+    padding: 4px 8px; /* Ajuste o preenchimento (espaçamento interno) */
+    border: 1px solid var(--branco); /* Define uma borda se necessário */
+    border-radius: 4px; /* Define bordas arredondadas, se necessário */
+    text-decoration: none;
+    color: var(--branco); /* Cor do texto */
+    background-color: var(--azul-degrade); /* Cor de fundo */
+}
+
+.botões__ancora:hover {
+    background-color: var(--laranja); /* Cor de fundo ao passar o mouse */
+}
