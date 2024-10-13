@@ -71,6 +71,7 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
+    font-size: 14px;
 }
 
 .botões__item {
